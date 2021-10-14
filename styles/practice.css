@@ -1,0 +1,31 @@
+body {
+    font-size: 30px;
+}
+
+img{
+    display:block;
+    border: 5px solid green;
+    background-color: lightblue;
+    width:25%;
+    max-width:1200px;
+    margin:0 auto;
+    padding: .53em;
+    box-sizing: border-box;
+}
+h1,p {
+    border:5px solid blue;
+    text-align:center;
+    font-family: Roboto, Helvetica, sans-serif;
+
+}
+
+#image-box {
+    text-align: center;
+}
+
+p {
+    font-size: 3em;
+}
+.para-box{
+    font-size:12px;
+}
